@@ -1,4 +1,4 @@
-# insta-image-download-helper
+# Instagram Image Download Helper
 Chrome extension that makes it easier to save images from Instagram.
 
 Normally, to download an image from Instagram (without taking a screenshot), you need to use the browser dev tools in order to get the image URL and proceed to download. That gets annoying really quickly...  
