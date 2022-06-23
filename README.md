@@ -13,3 +13,4 @@ So I made this extension that allows you to download the image like you normally
 Once the extension is loaded, go to Instagram, click the puzzle icon in the top right corner of Chrome, and select the new Instagram extension, you will see a button that says "Activate image download helper." Click that.
 
 ### You can now click on a post and download its images simply by right clicking and saving!
+###### You need to click the activation button once per Instagram session (every time you load Instagram)
