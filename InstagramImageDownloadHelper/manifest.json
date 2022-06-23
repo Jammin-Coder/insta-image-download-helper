@@ -1,0 +1,16 @@
+{
+    "name": "Instagram Image Cover Remover",
+    "description": "Extenstion that removes the image cover on Instagram images.",
+    "version": "1.0",
+    "manifest_version": 3,
+
+    "background": {
+        "service_worker": "background.js"
+    },
+
+    "permissions": ["storage", "activeTab", "scripting"],
+
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
